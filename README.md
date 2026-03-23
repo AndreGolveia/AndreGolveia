@@ -48,3 +48,5 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+
+<img src="https://raw.githubusercontent.com/EnzoFerroni/EnzoFerroni/output/snake.svg" alt="Snake animation" />
